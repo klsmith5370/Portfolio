@@ -3,6 +3,7 @@
     /* background: url('https://static.vecteezy.com/system/resources/previews/002/207/827/original/abstract-neon-background-free-vector.jpg'); */
     background-size:cover;
     position:relative;
+    background-color: #03045e;
 }
 
 /* text css above hero image*/
@@ -61,8 +62,8 @@
     font-size: 36px;
     cursor: pointer;
 }
-.fa-instagram:hover, .fa-linkedin:hover {
-    color: #d63384;
+.fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
+    color:gold;
 }
 .fab {
     color: #000000;

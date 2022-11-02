@@ -1,6 +1,5 @@
 .bgimage {
     height:100vh;
-    /* background: url('https://static.vecteezy.com/system/resources/previews/002/207/827/original/abstract-neon-background-free-vector.jpg'); */
     background-size:cover;
     position:relative;
     background-color: #03045e;
@@ -34,7 +33,6 @@
 
 /* skills section css */
 .skillsText.card {
-    /* height: 280px; */
     height: 180px;
     font-size: small;
 }
@@ -71,10 +69,13 @@
 }
 
 /* spacing on all sections */
-#about, #skills, #portfolio {
+#about, #skills, #portfolio, #contact {
     margin-top: 2rem;
     padding-top: 2rem;
 }
-/* #contact {
+
+#contact {
+    text-align: center;
     padding-bottom: 4rem;
-} */
+    background-color: lemonchiffon; 
+}

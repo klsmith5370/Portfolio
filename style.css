@@ -57,15 +57,10 @@
     cursor: pointer;
 }
 .fa-instagram:hover, .fa-linkedin:hover, .fa-github:hover {
-    color:gold;
+    color:#03045e;
 }
 .fab {
     color: #000000;
-}
-/* footer styling */
-#footer {
-    background-color: #808080;
-    text-align: center;
 }
 
 /* spacing on all sections */

@@ -35,16 +35,12 @@
 /* skills section css */
 .skillsText.card {
     /* height: 280px; */
-    height: 300px;
+    height: 180px;
     font-size: small;
 }
 
 .card-title {
     text-align: center;
-}
-
-.skillsText:hover {
-    border: 1px solid #d63384;
 }
 
 .portfolioContent.card {
